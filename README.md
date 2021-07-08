@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👀 About me
+- Sejong Univ. (2017.03 ~ )
+- Digital Media System lab (2020.07 ~ )
+
+### 💻 Interest
+- Video Codec (HEVC, VVC)
+- Transform coding
+
+### 🏆 Award
+- 2017 교내 SW경시대회 4등
+- 2018 교내 SW경시대회 5등
+- 2019 교내 SW경시대회 4등
